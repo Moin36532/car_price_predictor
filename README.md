@@ -4,7 +4,7 @@ This project is a Machine Learning-based Car Price Predictor that estimates the 
 
 It’s a great use case for understanding how Machine Learning can help make data-driven decisions — especially for car buyers and sellers in Pakistan! 🇵🇰
 
-🌐 Live Demo: [Click here to try it out!]([url](https://car-price-predictor325.streamlit.app/))
+🌐 Live Demo: https://car-price-predictor325.streamlit.app/
 
 🚀 Project Overview
 
